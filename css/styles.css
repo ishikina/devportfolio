@@ -10,8 +10,12 @@
     that don't come from third party libraries. This file gets compiled using
     Gulp and send to the /css folder which is then loaded on the page.
 */
-body {
+/* body {
   font-family: "Lato", sans-serif;
+  font-size: 16px;
+} */
+body {
+  font-family: "DM Sans", sans-serif;
   font-size: 16px;
 }
 body.active {
@@ -246,12 +250,11 @@ footer {
   color: #fff;
   font-weight: 900;
   font-size: 5em;
-  text-transform: uppercase;
   letter-spacing: 0.05em;
   line-height: 0.9em;
 }
 #lead-content h2 {
-  color: #a0cfee;
+  color: #efefef;
   font-weight: 500;
   font-size: 2.25em;
   margin-bottom: 15px;
@@ -264,7 +267,8 @@ footer {
   right: 0;
   bottom: 0;
   left: 0;
-  background: rgba(33, 125, 187, 0.8);
+  /* background: rgba(33, 125, 187, 0.8); */
+  background: rgba(176, 138, 144, 0.3);
   z-index: 1;
 }
 #lead-down {
