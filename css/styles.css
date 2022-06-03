@@ -14,6 +14,19 @@
   font-family: "Lato", sans-serif;
   font-size: 16px;
 } */
+.social-icon {
+  color: #fff;
+  margin: 0rem 2rem;
+}
+.social-icon:visited {
+  color: #fff;
+}
+.social-icon:hover {
+  color: rgb(217, 168, 161);
+}
+.social-icon:active {
+  color: rgb(217, 168, 161);
+}
 body {
   font-family: "DM Sans", sans-serif;
   font-size: 16px;
