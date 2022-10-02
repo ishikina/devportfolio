@@ -345,12 +345,13 @@ footer {
 */
 
 #lead {
-  position: relative;
+  // position: relative;
+  position: absolute;
   height: 100vh;
   min-height: 500px;
   max-height: 1080px;
   //   background: url(../images/lead-bg.jpg);
-  background: url(../images/portland.jpeg);
+  background: url(../images/dallas.jpeg);
   background-size: cover;
   padding: 15px;
   overflow: hidden;
