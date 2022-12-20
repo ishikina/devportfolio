@@ -309,9 +309,8 @@ footer {
   right: 0;
   bottom: 0;
   left: 0;
-  /* background: rgba(33, 125, 187, 0.8); */
-  /* background: rgba(176, 138, 144, 0.3); */
-  background: rgba(65, 75, 95, 0.584);
+  /* header background filter  */
+  background: rgba(130, 65, 4, 0.421);
   z-index: 1;
 }
 #lead-down {
