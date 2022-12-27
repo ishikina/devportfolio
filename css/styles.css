@@ -22,12 +22,12 @@
   color: #fff;
 }
 .social-icon:hover {
-  /* color: rgba(49, 144, 185, 0.539); */
-  color: rgba(183, 153, 240, 0.563);
+  color: rgba(231, 171, 20, 0.94);
+  /* color: rgba(42, 65, 141, 0.839); */
 }
 .social-icon:active {
-  /* color: rgba(49, 144, 185, 0.539); */
-  color: rgba(183, 153, 240, 0.563);
+  color: rgba(231, 171, 20, 0.9);
+  /* color: rgba(42, 65, 141, 0.839); */
 }
 body {
   font-family: "DM Sans", sans-serif;
@@ -310,7 +310,7 @@ footer {
   bottom: 0;
   left: 0;
   /* header background filter  */
-  background: rgba(130, 65, 4, 0.421);
+  background: rgba(118, 58, 2, 0.421);
   z-index: 1;
 }
 #lead-down {
