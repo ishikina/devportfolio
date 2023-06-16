@@ -22,11 +22,11 @@
   color: #fff;
 }
 .social-icon:hover {
-  color: rgba(177, 148, 209, 0.614);
+  color: #3498db;
   /* color: rgba(42, 65, 141, 0.839); */
 }
 .social-icon:active {
-  color: rgba(177, 148, 209, 0.614);
+  color: #3498db;
   /* color: rgba(42, 65, 141, 0.839); */
 }
 body {
