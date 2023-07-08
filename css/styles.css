@@ -498,6 +498,47 @@ footer {
 .education-block ul {
   padding: 0 0 0 15px;
 }
+#certifications {
+  padding: 50px 15px 20px 15px;
+  border-bottom: 1px solid #dcd9d9;
+  text-align: center;
+}
+#certifications h2 {
+  color: #374054;
+  margin-bottom: 50px;
+}
+.certifications-block {
+  max-width: 700px;
+  margin: 0 auto 30px auto;
+  padding: 15px;
+  border: 1px solid #dcd9d9;
+  text-align: left;
+}
+.certifications-block h3 {
+  font-weight: 500;
+  float: left;
+  margin: 0;
+  color: #374054;
+}
+.certifications-block span {
+  color: #74808a;
+  float: right;
+}
+.certifications-block h4 {
+  color: #74808a;
+  clear: both;
+  font-weight: 500;
+  margin: 0 0 15px 0;
+}
+.certifications-block p,
+.certifications-block ul {
+  margin: 0;
+  color: #74808a;
+  font-size: 0.9em;
+}
+.certifications-block ul {
+  padding: 0 0 0 15px;
+}
 #projects {
   padding: 50px 15px;
   border-bottom: 1px solid #dcd9d9;
@@ -757,6 +798,10 @@ footer {
   }
   .education-block h3,
   .education-block span {
+    float: none;
+  }
+  .certifications-block h3,
+  .certifications-block span {
     float: none;
   }
   .project-image {
