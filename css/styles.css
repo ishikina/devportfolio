@@ -276,7 +276,7 @@ footer {
   height: 100vh;
   min-height: 500px;
   max-height: 1080px;
-  background: url(../images/teamlabs-profile.jpeg);
+  background: url(../images/taketomi.jpeg);
   background-size: cover;
   padding: 20px;
   overflow: hidden;
@@ -315,7 +315,7 @@ footer {
   bottom: 0;
   left: 0;
   /* header background filter  */
-  background: rgba(38, 46, 81, 0.56);
+  background: rgba(38, 46, 81, 0.179);
   z-index: 1;
 }
 #lead-down {
