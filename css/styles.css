@@ -277,7 +277,7 @@ footer {
   height: 100vh;
   min-height: 500px;
   max-height: 1080px;
-  background: url(../images/teamlabs-profile.jpeg);
+  background: url(../images/underwater.JPEG);
   background-size: cover;
   padding: 20px;
   overflow: hidden;
@@ -305,9 +305,9 @@ footer {
   line-height: 0.9em;
 }
 #lead-content h2 {
-  color: #ffe8c7;
+  color: #f8f8f8;
   font-weight: 30;
-  font-size: 2.15em;
+  font-size: 1.15em;
   font-family: 'Lexend';
   margin-bottom: 20px;
 }
@@ -320,7 +320,7 @@ footer {
   bottom: 0;
   left: 0;
   /* header background filter  */
-  background: rgba(42, 51, 87, 0.633);
+  background: rgba(167, 90, 156, 0.096);
   z-index: 1;
 }
 #lead-down {
